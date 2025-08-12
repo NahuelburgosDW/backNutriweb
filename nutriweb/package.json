@@ -1,0 +1,16 @@
+{
+  "name": "backend-nutriweb",
+  "version": "1.0.0",
+  "description": "Backend mockeado para buscar recetas por ingredientes",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
